@@ -1,4 +1,4 @@
-# Développeur Full Stack
+# Offre d'emploi : Développeur Full Stack
 
 **Lieu** : Montpellier  
 **Type** : CDI, temps plein  
@@ -14,6 +14,7 @@ Au sein de l’équipe technique et sous la responsabilité du directeur techniq
 - Participer à la conception technique et au développement (Back-end / Front-end)
 - Développer des applications web et API JavaScript (Node.js/MySQL) ou PHP ou encore basées sur des CMS
 - Mettre en place des sites E-Commerce
+- Identifier et corriger des bugs sur des applications web existantes
 - Partager et faire évoluer les compétences des équipes
 
 ## Connaissances requises
